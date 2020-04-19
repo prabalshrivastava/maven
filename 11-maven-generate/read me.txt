@@ -1,0 +1,15 @@
+run the batch file with the following command to generae the project
+This commands create the project with 
+groupId = com.companyname.bank 
+artifactId=consumerBanking 		
+-DinteractiveMode=false			means while creating user interaction is off
+
+
+
+
+
+mvn archetype:generate
+-DgroupId=com.companyname.bank 
+-DartifactId=consumerBanking 
+-DarchetypeArtifactId=maven-archetype-quickstart 
+-DinteractiveMode=false

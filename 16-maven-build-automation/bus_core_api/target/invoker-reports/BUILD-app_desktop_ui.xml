@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<build-job project="app_desktop_ui\pom.xml" name="" description="" result="failure-build" time="2.219" type="normal">
+  <failureMessage>The build exited with code 1. See E:\development\maven\16-maven-build-automation\bus_core_api\target\it\app_desktop_ui\build.log for details.</failureMessage>
+</build-job>

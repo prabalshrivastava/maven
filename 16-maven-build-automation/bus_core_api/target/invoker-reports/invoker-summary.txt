@@ -1,0 +1,1 @@
+failure-build [app_desktop_ui\pom.xml]  The build exited with code 1. See E:\development\maven\16-maven-build-automation\bus_core_api\target\it\app_desktop_ui\build.log for details.
